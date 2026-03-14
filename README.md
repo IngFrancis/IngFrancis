@@ -13,15 +13,15 @@
 
   <!-- Typing Line -->
   <img
-    src="TYPING_SVG_LINK"
+    src="https://readme-typing-svg.demolab.com?font=Inter&pause=2500&color=00FFFF&center=true&vCenter=true&width=520&lines=Building+AI+and+Robotics+Systems"
     alt="Typing SVG"
   />
 
   <!-- Metrics -->
   <p>
-    <img src="PROFILE_VIEWS_BADGE_LINK" alt="Profile Views"/>
-    <img src="FOLLOWERS_BADGE_LINK" alt="Followers"/>
-    <img src="STARS_BADGE_LINK" alt="Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=IngFrancis&color=00FFFF&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/IngFrancis?style=social" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/IngFrancis?style=social" alt="Stars"/>
   </p>
 
   <hr/>
@@ -30,13 +30,12 @@
   <h2>👨‍💻 About Me</h2>
   <p>
     I'm a passionate <b>Software Engineer</b> and <b>AI & Robotics Developer</b> focused on building 
-    <b>intelligent, scalable, and modern technology solutions</b>. My work combines software engineering,
-    artificial intelligence, and robotics to create systems capable of interacting with the real world.
+    intelligent systems that combine software engineering, robotics, and artificial intelligence.
   </p>
 
   <p>
-    I enjoy working on projects that integrate <b>computer vision, machine learning, and modern web technologies</b>
-    to solve complex problems and push the boundaries of intelligent systems.
+    My work explores <b>computer vision, machine learning, and modern software technologies</b>
+    to create systems capable of understanding and interacting with their environment.
   </p>
 
   <hr/>
@@ -52,29 +51,24 @@
   
   <p>
     This project focuses on building <b>AI-powered robotic systems capable of computer vision</b>.
-    It combines artificial intelligence, machine learning, and robotics to enable machines
-    to interpret and interact with their environment using visual data.
-  </p>
-
-  <p>
-    The system demonstrates how robots can process real-time camera input, detect objects,
-    and make intelligent decisions based on visual information.
+    It integrates machine learning and robotics to allow systems to analyze visual input and
+    respond intelligently in real time.
   </p>
 
   <p><b>Key Features:</b></p>
   <ul style="text-align: left; display: inline-block;">
-    <li>🤖 <b>Autonomous Vision Processing:</b> Robots analyze and interpret camera input</li>
-    <li>🧠 <b>AI-Based Object Detection:</b> Machine learning models identify objects in real time</li>
-    <li>📷 <b>Computer Vision Integration:</b> Advanced image processing techniques</li>
-    <li>⚡ <b>Real-Time Decision Making:</b> AI-driven robotic responses to environmental changes</li>
-    <li>🔬 <b>Research-Oriented Architecture:</b> Designed for experimentation and AI development</li>
+    <li>🤖 Autonomous robotic vision systems</li>
+    <li>🧠 AI-based object detection and classification</li>
+    <li>📷 Real-time camera processing</li>
+    <li>⚡ Intelligent robotic responses</li>
+    <li>🔬 Designed for experimentation and research</li>
   </ul>
-  
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="SNAKE_ANIMATION_DARK_LINK">
-    <source media="(prefers-color-scheme: light)" srcset="SNAKE_ANIMATION_LIGHT_LINK">
-    <img alt="github contribution grid snake animation" src="SNAKE_ANIMATION_DEFAULT_LINK">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -85,11 +79,6 @@
     <code>Computer Vision</code> · <code>Machine Learning</code>
   </p>
 
-  <p>
-    <b>Role:</b> AI & Robotics Developer<br/>
-    <em>Responsibilities: AI model development, computer vision integration, robotic system programming, and real-time visual processing</em>
-  </p>
-
   <hr/>
 
   <!-- Tech Stack -->
@@ -98,24 +87,17 @@
   <h3>Languages & Frameworks</h3>
   <p>
     <img
-      src="SKILL_ICONS_LANGUAGES_LINK"
+      src="https://skillicons.dev/icons?i=python,java,js,html,css,react"
       alt="Languages and Frameworks"
     />
   </p>
 
-  <h3>Development Tools</h3>
+  <h3>Tools</h3>
   <p>
     <img
-      src="SKILL_ICONS_TOOLS_LINK"
-      alt="Development Tools"
+      src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker"
+      alt="Tools"
     />
-  </p>
-
-  <h3>AI & Robotics</h3>
-  <p>
-    <img src="OPENCV_BADGE_LINK" alt="OpenCV"/>
-    <img src="TENSORFLOW_BADGE_LINK" alt="TensorFlow"/>
-    <img src="PYTORCH_BADGE_LINK" alt="PyTorch"/>
   </p>
 
   <hr/>
@@ -125,7 +107,7 @@
 
   <p>
     <img
-      src="GITHUB_ACTIVITY_GRAPH_LINK"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=IngFrancis&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
       width="95%"
       alt="Activity Graph"
     />
@@ -133,7 +115,7 @@
 
   <p>
     <img
-      src="GITHUB_STREAK_LINK"
+      src="https://streak-stats.demolab.com?user=IngFrancis&theme=tokyonight&hide_border=true"
       alt="GitHub Streak"
       referrerpolicy="no-referrer"
     />
@@ -141,7 +123,7 @@
 
   <p>
     <img
-      src="GITHUB_TROPHIES_LINK"
+      src="https://github-profile-trophy.screw-hand.vercel.app/?username=IngFrancis&theme=onedark&no-bg=true&no-frame=true&margin-w=12"
       alt="GitHub Trophies"
       referrerpolicy="no-referrer"
     />
@@ -153,7 +135,7 @@
   <h2>💭 Daily Inspiration</h2>
   <p>
     <img
-      src="DEV_QUOTE_WIDGET_LINK"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
       alt="Random Dev Quote"
     />
   </p>
@@ -163,21 +145,16 @@
   <!-- Contact -->
   <h2>📫 Let's Connect</h2>
   <p>
-    I'm always open to collaboration on software engineering, AI,
-    robotics, and computer vision projects.
+    I'm always open to collaboration on software engineering, robotics, and AI research.
   </p>
 
   <p>
-    <a href="LINKEDIN_PROFILE_LINK" target="_blank">
-      <img src="LINKEDIN_BADGE_LINK" alt="LinkedIn"/>
+    <a href="LINKEDIN_PROFILE_PLACEHOLDER" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 
-    <a href="GITHUB_PROFILE_LINK" target="_blank">
-      <img src="GITHUB_BADGE_LINK" alt="GitHub"/>
-    </a>
-
-    <a href="EMAIL_CONTACT_LINK">
-      <img src="EMAIL_BADGE_LINK" alt="Email"/>
+    <a href="EMAIL_PLACEHOLDER">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
