@@ -1,12 +1,6 @@
 <div align="center">
 
-  <!-- Banner -->
-  <img
-    src="BANNER_IMAGE_LINK"
-    alt="Francis Adom Banner"
-    width="100%"
-  />
-
+  
   <!-- Name & Role -->
   <h1>Francis Adom</h1>
   <p><em>Software Engineer · AI & Robotics Developer</em></p>
